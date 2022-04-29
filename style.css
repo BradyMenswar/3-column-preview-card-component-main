@@ -36,7 +36,7 @@ body {
     background-color: hsl(179, 100%, 13%);
 }
 main .card h1 {
-    color: hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 95%); 
     text-transform: uppercase;
     font-family: "Big Shoulders Display", cursive;
     font-weight: 700;

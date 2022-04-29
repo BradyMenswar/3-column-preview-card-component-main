@@ -25,11 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of final webpage](./WebpageSS.png)
+![Screenshot of final webpage](https://github.com/BradyMenswar/3-column-preview-card-component-main/blob/main/WebpageSS.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -49,5 +48,4 @@ I still would like to learn more about mobile design. I did not use any media qu
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@BradyMenswar](https://www.frontendmentor.io/profile/bradymenswar)
