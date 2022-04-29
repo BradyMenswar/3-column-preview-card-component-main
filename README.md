@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./WebpageSS.png)
+![Screenshot of final webpage](./WebpageSS.png)
 
 ### Links
 
